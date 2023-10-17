@@ -321,14 +321,14 @@ li {
 
 	.box{
 		margin: 20px;
-		width: 350px;
+		width: 355px;
 		height: 520px;
 	}
 	
 	/* 回應區域 */
 
 	#tip{
-		width: 350px;
+		width: 355px;
 		height: 450px;
 		font-size: 12px;
 		overflow: auto;
@@ -372,7 +372,7 @@ li {
 	}
 
 	#say{
-		width: 240px;
+		width: 245px;
 		height: 40px;
 		margin-left: 13px;
 		margin-right: 13px;
