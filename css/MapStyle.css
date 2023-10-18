@@ -249,7 +249,7 @@ select{
 
 /* 響應式 */
 		
-@media only screen and (max-width: 430px) {
+@media only screen and (max-width: 395px) {
 		
 		
 			
@@ -319,6 +319,9 @@ select{
 	}
 	
 	/* 中間 */
+	h2 {
+		font-size: 20px;
+	}
 	.RL{
 		flex-direction: column;
 		width:95%;
@@ -326,6 +329,7 @@ select{
 		margin: 25px;
 	}
 	.left{
+		margin-left: 20px;
 		float: center;
 	}
 	.right{
@@ -333,12 +337,20 @@ select{
 		
 	}
 	#image {
-		width: 450px;
-		height: 280px;
+		width: 380px;
+		height: 230px;
 	}
 	.onion-title-wrap{
 		margin-left: 15px;
 	}
 	#dropdown{
+		
 		margin-left: 15px;
+	}
+	/* 樓層下拉式選單 */
+		
+	select{
+		font-size: 20px;
+		width: 260px;
+		height: 40px;
 	}
