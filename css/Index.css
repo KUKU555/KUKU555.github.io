@@ -327,6 +327,7 @@ a {
 	}
 	/* 現在位置 */
 	.nowplace{
+		margin-bottom:20;
 		font-size: 16px;
 	}
 	/* 現在地圖 */
