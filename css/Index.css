@@ -259,7 +259,7 @@ a {
 
 /* 響應式 */
 		
-@media only screen and (max-width: 395px) {
+@media only screen and (max-width: 390px) {
 		
 		
 			
@@ -308,7 +308,7 @@ a {
 	/* 背景 */
 	.backg{
 		height: 600px;
-		weight: 395px;
+		weight: 390px;
 		margin-top: 0;
 		background-image: url("../pic/backgg.jpg");
 		background-repeat: repeat;
@@ -355,7 +355,7 @@ a {
 		font-size:105%;
 	}
 	.placebut{
-		width:395px;
+		width:390px;
 		margin-left:-25;
 	}
 }
