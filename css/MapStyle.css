@@ -313,6 +313,7 @@ select{
 	
 	/* 背景 */
 	.backg{
+		height: 600px;
 		margin-top: 0;
 		background-image: url("../pic/backgg.jpg");
 		background-repeat: repeat;
@@ -329,7 +330,7 @@ select{
 		margin: 25px;
 	}
 	.left{
-		margin-left: 20px;
+		margin-left: 15px;
 		float: center;
 	}
 	.right{
@@ -337,8 +338,8 @@ select{
 		
 	}
 	#image {
-		width: 380px;
-		height: 230px;
+		width: 360px;
+		height: 200px;
 	}
 	.onion-title-wrap{
 		margin-left: 15px;
@@ -350,6 +351,7 @@ select{
 	/* 樓層下拉式選單 */
 		
 	select{
+		margin-left: 15px;
 		font-size: 20px;
 		width: 260px;
 		height: 40px;
