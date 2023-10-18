@@ -330,16 +330,17 @@ select{
 		margin: 25px;
 	}
 	.left{
-		margin-left: 15px;
+		margin-left: -10px;
 		float: center;
 	}
 	.right{
+		margin-left: 10px;
 		float: left;
 		
 	}
 	#image {
-		width: 360px;
-		height: 200px;
+		width: 350px;
+		height: 230px;
 	}
 	.onion-title-wrap{
 		margin-left: 15px;
@@ -353,6 +354,6 @@ select{
 	select{
 		margin-left: 15px;
 		font-size: 20px;
-		width: 260px;
+		width: 300px;
 		height: 40px;
 	}
