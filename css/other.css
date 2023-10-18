@@ -322,14 +322,14 @@ li {
 	.box{
 		margin: 20px;
 		width: 355px;
-		height: 560px;
+		height: 550px;
 	}
 	
 	/* 回應區域 */
 
 	#tip{
 		width: 355px;
-		height: 490px;
+		height: 480px;
 		font-size: 12px;
 		overflow: auto;
 	}
