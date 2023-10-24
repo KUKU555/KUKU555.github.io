@@ -205,7 +205,7 @@ img{
 
 /* 響應式 */
 		
-@media only screen and (max-width: 430px) {
+@media only screen and (max-width: 395px) {
 		
 		
 			
@@ -272,7 +272,7 @@ img{
 	/* 現在位置 */
 			
 	.nowplace{
-		font-size: 24px;
+		font-size: 20px;
 	}
 			
 	/* 中間 */
@@ -288,8 +288,8 @@ img{
 	/* 垂直擺放的容器和項目*/
 			
 	.item-Marquee {			
-		width: 800px;
-		height: 420px; 
+		width: 750px;
+		height: 370px; 
 	}
 		
 	.item-button {			
@@ -299,19 +299,19 @@ img{
 	/* 跑馬燈圖片 */
 			
 	.box1{
-		width: 450px;
-		height: 300px;
+		width: 400px;
+		height: 250px;
 	}
 	.photo{
-		width: 450px;
-		height: 300px;
+		width: 400px;
+		height: 250px;
 	}
 	
 	/* 位置文字訊息 */
 		
 	.word {
-		width:460px;
-		height:350px;
+		width:400px;
+		height:300px;
 		margin-left: 170px;
 		font-size: 15px;	
 	}
