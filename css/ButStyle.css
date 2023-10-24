@@ -288,29 +288,31 @@ img{
 	/* 垂直擺放的容器和項目*/
 			
 	.item-Marquee {			
-		width: 750px;
+		width: 395px;
 		height: 370px; 
 	}
 		
 	.item-button {			
-		margin-left:-100px;
+		margin-left:-70px;
+		width: 800px;
+		height: 60px;
 	}
 		
 	/* 跑馬燈圖片 */
 			
 	.box1{
-		width: 400px;
-		height: 250px;
+		width: 370px;
+		height: 220px;
 	}
 	.photo{
-		width: 400px;
-		height: 250px;
+		width: 370px;
+		height: 220px;
 	}
 	
 	/* 位置文字訊息 */
 		
 	.word {
-		width:400px;
+		width:380px;
 		height:300px;
 		margin-left: 170px;
 		font-size: 15px;	
@@ -319,7 +321,9 @@ img{
 	/* 回首頁圖的效果 */
 			
 	.item-back{	
-		margin-left: -100px;
+		margin-left: -70px;
+		width:888px;
+		height:90px;
 	}	
 		
 }
