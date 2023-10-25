@@ -282,7 +282,6 @@ img{
 		flex-direction: column;
 		width:395px;
 		height:700px;
-		align-items: center;
 		
 	}
 			
@@ -295,7 +294,7 @@ img{
 		
 	.item-button {			
 		margin-left:-70px;
-		width: 800px;
+		width: 700px;
 		height: 60px;
 	}
 		
@@ -315,14 +314,14 @@ img{
 	.word {
 		width:380px;
 		height:300px;
-		margin-left: 170px;
+		margin-left: 20px;
 		font-size: 15px;	
 	}
 			
 	/* 回首頁圖的效果 */
 			
 	.item-back{	
-		margin-left: -70px;
+		margin-left: -100px;
 		width:888px;
 		height:90px;
 	}	
