@@ -208,7 +208,11 @@ img{
 @media only screen and (max-width: 395px) {
 		
 		
-			
+	/* 頁面超出 */
+	body, html{
+		over-flow-x: hidden;
+	}
+	
 	/* 漢堡選單 */
 	.nav-menu {
 		position: fixed;
