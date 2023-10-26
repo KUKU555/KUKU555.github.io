@@ -209,8 +209,11 @@ img{
 		
 		
 	/* 頁面超出 */
-	body, html{
-		overflow-x: hidden;
+	*{
+	   outline: solid #f00 1px !important;
+	   background: #000 !important;
+	   color: #fff !important;
+
 	}
 	
 	/* 漢堡選單 */
