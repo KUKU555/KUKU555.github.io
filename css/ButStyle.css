@@ -292,7 +292,8 @@ img{
 	}
 		
 	.item-button {			
-		margin-left:-100px;
+		margin-left:-80px;
+		margin-bottom: 15px;
 		width: 500px;
 		height: 50px;
 	}
@@ -301,26 +302,26 @@ img{
 			
 	.box1{
 		width: 340px;
-		height: 220px;
+		height: 240px;
 	}
 	.photo{
 		width: 340px;
-		height: 220px;
+		height: 240px;
 	}
 	
 	/* 位置文字訊息 */
 		
 	.word {
-		width:360px;
+		width:365px;
 		height:300px;
-		margin-left: 10px;
+		margin-left: 15px;
 		font-size: 15px;	
 	}
 			
 	/* 回首頁圖的效果 */
 			
 	.item-back{	
-		margin-left: -70px;
+		margin-left: -150px;
 		width:888px;
 		height:90px;
 	}	
