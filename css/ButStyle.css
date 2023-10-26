@@ -292,7 +292,7 @@ img{
 	}
 		
 	.item-button {			
-		margin-left:-60px;
+		margin-left:-55px;
 		margin-bottom: 25px;
 		width: 500px;
 		height: 50px;
@@ -321,7 +321,7 @@ img{
 	/* 回首頁圖的效果 */
 			
 	.item-back{	
-		margin-left: -200px;
+		margin-left: -250px;
 		width:888px;
 		height:90px;
 	}	
