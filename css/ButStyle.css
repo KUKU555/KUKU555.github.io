@@ -210,7 +210,7 @@ img{
 		
 	/* 頁面超出 */
 	body, html{
-		over-flow-x: hidden;
+		overflow-x: hidden;
 	}
 	
 	/* 漢堡選單 */
