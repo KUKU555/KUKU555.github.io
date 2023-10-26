@@ -206,15 +206,6 @@ img{
 /* 響應式 */
 		
 @media only screen and (max-width: 395px) {
-		
-		
-	/* 頁面超出 */
-	*{
-	   outline: solid #f00 1px !important;
-	   background: #000 !important;
-	   color: #fff !important;
-
-	}
 	
 	/* 漢堡選單 */
 	.nav-menu {
@@ -306,7 +297,7 @@ img{
 	.item-button {			
 		margin-left:-55px;
 		margin-bottom: 25px;
-		width: 500px;
+		width: 395px;
 		height: 50px;
 	}
 		
@@ -322,7 +313,11 @@ img{
 	}
 	
 	/* 位置文字訊息 */
-		
+
+	.item-word {
+		width:395px;
+		height:500px;			
+	}
 	.word {
 		width:365px;
 		height:300px;
