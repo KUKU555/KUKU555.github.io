@@ -281,11 +281,6 @@ img{
 		height:700px;
 		
 	}
-
-	.bbelow{
-		width: 395px;
-		height: 700px;
-	}
 			
 	/* 垂直擺放的容器和項目*/
 			
@@ -295,7 +290,7 @@ img{
 	}
 		
 	.item-button {			
-		margin-left:-55px;
+		margin-left:-20px;
 		margin-bottom: 25px;
 		width: 395px;
 		height: 50px;
@@ -328,7 +323,7 @@ img{
 	/* 回首頁圖的效果 */
 			
 	.item-back{	
-		margin-left: -250px;
+		margin-left: -100px;
 		width:395px;
 		height:90px;
 	}	
