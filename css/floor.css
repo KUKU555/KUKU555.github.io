@@ -64,7 +64,6 @@ a {
 }
 .nav-link:hover{
 	color: black;
-	border-bottom: 2px solid #7B7B7B;
 }
 		
 
@@ -90,6 +89,7 @@ a {
     background: #f8f8f8 !important;
     padding: 1px 0;
     position: relative;
+    z-index: 0;
 }
 
 .wrapper1 {
