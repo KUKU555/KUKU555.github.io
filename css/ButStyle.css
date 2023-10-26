@@ -292,8 +292,8 @@ img{
 	}
 		
 	.item-button {			
-		margin-left:-80px;
-		margin-bottom: 15px;
+		margin-left:-60px;
+		margin-bottom: 25px;
 		width: 500px;
 		height: 50px;
 	}
@@ -321,7 +321,7 @@ img{
 	/* 回首頁圖的效果 */
 			
 	.item-back{	
-		margin-left: -150px;
+		margin-left: -200px;
 		width:888px;
 		height:90px;
 	}	
