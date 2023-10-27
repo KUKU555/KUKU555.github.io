@@ -334,7 +334,7 @@ a {
 	.below{
 		flex-direction: column;
 		width:365px;
-		height:100%;
+		height:350px;
 		margin-left:20;
 	}
 	.picL{
@@ -347,9 +347,6 @@ a {
 		float:center;
 		width:70%;
 		margin-bottom:10;
-	}
-	.rrr{
-		height: 350px;
 	}
 	/* 現在位置按鈕 */
 	.btn-80{
