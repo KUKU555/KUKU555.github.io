@@ -235,7 +235,7 @@ a {
     cursor: pointer; /* Add cursor pointer for clickable items */
 }
 
-.article h1 {
+.article{
     font-size: 80px;
     text-align: center;
     margin: 20px;
@@ -365,3 +365,9 @@ a {
 	#floor .list ul a, #brand .list ul a {
 		margin-left: -6px;
 	}
+	
+	/* 目前樓層字體大小 */
+	
+	.article{
+   		font-size: 50px;
+}
