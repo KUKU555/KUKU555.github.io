@@ -253,7 +253,13 @@ li {
 /* 響應式 */
 		
 @media only screen and (max-width: 395px) {
-		
+
+
+	*{
+            outline: solid #f00 1px !important;
+	    backgroung: #000 !important;
+	    coloe: #fff !important;
+	}
 		
 	/* 漢堡選單 */
 	
