@@ -261,7 +261,12 @@ a {
 		
 @media only screen and (max-width: 395px) {
 		
-		
+
+	*{
+            outline: solid #f00 1px !important;
+            background: #000 !important;
+            color: #fff !important;
+	}
 			
 	/* 漢堡選單 */
 	.nav-menu {
