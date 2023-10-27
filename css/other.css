@@ -15,7 +15,7 @@ li {
 	list-style: none;
 }
 
-a {
+.nav-link {
 	color: #6C6C6C; 
 	background: transparent; 
 	border: 2px transparent;
@@ -293,7 +293,7 @@ a {
 	.nav-item {
 		margin: 1.5rem;
 	}
-	.tel {
+	a {
 		font-size: 20px;
 		padding:full;
 	}
