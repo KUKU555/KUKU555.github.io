@@ -294,7 +294,7 @@ li {
 		margin: 1.5rem;
 	}
 	a {
-		font-size: 20px;
+		font-size: 22px;
 		padding:full;
 	}
 	.nav-link{
@@ -380,7 +380,7 @@ li {
 	/* 輸入文字的地方 */
 
 	.question{
-		width: 380px;
+		width: 370px;
 	}
 
 	#say{
