@@ -14,7 +14,8 @@ html {
 li {
 	list-style: none;
 }
-.nav-link {
+
+a {
 	color: #6C6C6C; 
 	background: transparent; 
 	border: 2px transparent;
