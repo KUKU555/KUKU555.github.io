@@ -421,5 +421,7 @@ a {
 	/* 叉叉 */
 	.close {
 		font-size: 30px;
+		right: 15px;
+		top: 8px;
 	}
 	
