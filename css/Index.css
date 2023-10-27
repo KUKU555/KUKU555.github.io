@@ -346,7 +346,7 @@ a {
 	}
 	.picL{
 		float: center;
-		width:90%;
+		width:395px;
 		margin-bottom:30;
 	}
 	.picR{
@@ -360,7 +360,7 @@ a {
 		font-size:100%;
 	}
 	.placebut{
-		width:395px;
+		width:360px;
 		margin-left:-25;
 	}
 }
