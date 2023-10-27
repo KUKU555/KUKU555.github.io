@@ -359,3 +359,9 @@ a {
 	.divide{
 		width:300%;
 	}
+
+	/* 樓層按鈕 */
+	
+	#floor .list ul a, #brand .list ul a {
+		margin-left: -6px;
+	}
