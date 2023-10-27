@@ -387,7 +387,7 @@ a {
 	.nowplace{
 		width: 90%;
 		height: 40%;
-		margin-top: -20px;
+		margin-top: -30px;
 	}
 	
 	/* 直向排列 */
@@ -395,8 +395,8 @@ a {
 	.article .wrap {
 		display: relative;
 		grid-template-columns: repeat(1, 1fr); /* 4 columns with equal width */
-		margin-left: 25px;
-		margin-bottom: 15px;
+		margin-left: 27px;
+		margin-bottom: 20px;
 	}
 	
 	
