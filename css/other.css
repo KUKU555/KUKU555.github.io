@@ -363,7 +363,7 @@ li {
 
 	#tip{
 		width: 350px;
-		height: 450px;
+		height: 440px;
 		font-size: 12px;
 		overflow: auto;
 	}
@@ -449,6 +449,7 @@ li {
 	}
 	
 	.quickinput{
+		margin-top: 10px;
 		margin-bottom: 0px;
 		overflow-x: scroll;
 		overflow-y: hidden;
