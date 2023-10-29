@@ -251,6 +251,35 @@ li {
     margin-top: -9px;
 }
 
+/* 快捷訊息輸入 */
+
+.quickinput{
+	height: 20px;
+	width: 1380px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-top: -10px;
+}
+
+/* 快捷訊息輸入按鈕樣式 */
+
+.quick{
+	height: 30px;
+	width: fit-content;
+	font-size: 18px;
+	margin-right: 10px;
+	border: 1px solid #6C6C6C;
+	border-radius: 20px;
+	padding: 0.5rem ;
+	line-height: 2px;
+	
+}
+
+.quick:hover{
+	background-color: #BEBEBE;
+	
+}
+
 /* 響應式 */
 		
 @media only screen and (max-width: 395px) {
@@ -410,4 +439,27 @@ li {
 	}
 	.right:after {
 		left: 99.4%;
+	}
+
+	/* 快捷訊息輸入 */
+	
+	.quickinput{
+		height: 40px;
+		width: 390px;
+	}
+	
+	.quickinput{
+		margin-bottom: 0px;
+		overflow-x: scroll;
+		overflow-y: hidden;
+		white-space: nowrap;
+	}
+	
+	::-webkit-scrollbar {
+		display: none; /* Chrome Safari */
+	}
+	
+	.quick{
+		font-size: 15px;
+		
 	}
