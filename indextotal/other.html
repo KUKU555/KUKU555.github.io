@@ -74,7 +74,10 @@
 				<button class="quick" id="messagec" name="message" value="請問廁所在哪?" onclick="quickc()">請問廁所在哪?</button>
 				<button class="quick" id="messaged" name="message" value="請問樓梯在哪?" onclick="quickd()">請問樓梯在哪?</button>
 				<button class="quick" id="messagee" name="message" value="請問飲水機在哪?" onclick="quicke()">請問飲水機在哪?</button>
-				<button class="quick" id="messagef" name="messagef" value="7-11可以取貨嗎?" onclick="quickf()">7-11可以取貨嗎?</button>
+				<button class="quick" id="messagef" name="message" value="7-11可以取貨嗎?" onclick="quickf()">7-11可以取貨嗎?</button>
+				<button class="quick" id="messageg" name="message" value="我有東西遺失了!" onclick="quickf()">我有東西遺失了!</button>
+				<button class="quick" id="messageh" name="message" value="我想租借場地!" onclick="quickf()">我想租借場地!</button>
+				<button class="quick" id="messagei" name="message" value="我想看學餐的菜單~" onclick="quickf()">我想看學餐的菜單~</button>
 			</div>
 			<div class="question">
 				<input id="say" name="say" type="text" value="" onkeydown="keyin(event)" placeholder="  請輸入問題..." /> <!-- 按 enter 時呼叫 keyin() 回答 --> 
@@ -168,7 +171,24 @@
 		append(document.getElementById("say").value);
 		answer();
 	}
-	
+
+	function quickg(){ // 將快捷訊息丟到框框裡面
+		document.getElementById("say").value = document.getElementById("messageg").value;
+		append(document.getElementById("say").value);
+		answer();
+	}
+
+	function quickh(){ // 將快捷訊息丟到框框裡面
+		document.getElementById("say").value = document.getElementById("messageh").value;
+		append(document.getElementById("say").value);
+		answer();
+	}
+
+	function quicki(){ // 將快捷訊息丟到框框裡面
+		document.getElementById("say").value = document.getElementById("messagei").value;
+		append(document.getElementById("say").value);
+		answer();
+	}
 	// 以上是快捷訊息的js
     
     function say() { // 當送出鍵按下時，會呼叫這個函數進行回答動作
