@@ -272,7 +272,7 @@ li {
 	border-radius: 20px;
 	padding: 0.5rem ;
 	line-height: 2px;
-	
+	font-color: black;
 }
 
 .quick:hover{
