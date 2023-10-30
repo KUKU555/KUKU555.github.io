@@ -272,7 +272,7 @@ li {
 	border-radius: 20px;
 	padding: 0.5rem ;
 	line-height: 2px;
-	font-color: black;
+	color: black;
 }
 
 .quick:hover{
@@ -462,5 +462,4 @@ li {
 	
 	.quick{
 		font-size: 15px;
-		font-color: black;
 	}
