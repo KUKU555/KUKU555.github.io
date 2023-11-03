@@ -403,8 +403,8 @@ a {
 	/* 介紹方框裡的圖片 */
 	
 	.article .wrap .item {
-		line-height: 1.5;
-		margin-top: 5px;
+		line-height: 2;
+		margin-top: 10px;
 		width: 300px;
 	}
 	
