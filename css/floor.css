@@ -404,6 +404,7 @@ a {
 	
 	.article .wrap .item {
 		line-height: 1.5;
+		margin-top: 5px;
 		width: 300px;
 	}
 	
