@@ -337,16 +337,16 @@ select{
 		float: center;
 	}
 	.right{
-		margin-left: -10px;
+		margin-left: -15px;
 		float: left;
 		
 	}
 	#image {
-		width: 370px;
+		width: 360px;
 		height: 350px;
 	}
 	.onion-title-wrap{
-		margin-left: 10px;
+		margin-left: 15px;
 	}
 	#dropdown{
 		
