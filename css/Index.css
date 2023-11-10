@@ -351,6 +351,7 @@ a {
 	/* 現在位置按鈕 */
 	.btn-80{
 		font-size:15px;
+		margin: 5px;
 	}
 	.placebut{
 		width:395px;
