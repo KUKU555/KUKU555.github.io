@@ -334,10 +334,10 @@ select{
 	}
 	.left{
 		float: center;
+		margin-left: -15px;
 	}
 	.right{
 		float: left;
-		margin-left: 15px;
 	}
 	#image {
 		width: 360px;
