@@ -338,6 +338,7 @@ select{
 	}
 	.right{
 		float: left;
+		margin-left: -10px;
 	}
 	#image {
 		width: 360px;
