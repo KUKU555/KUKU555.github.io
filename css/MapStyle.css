@@ -334,14 +334,13 @@ select{
 	}
 	.left{
 		float: center;
-		margin-left: -5px;
 	}
 	.right{
 		float: left;
 		margin-left: -5px;
 	}
 	#image {
-		width: 360px;
+		width: 365px;
 		height: 400px;
 	}
 	.onion-title-wrap{
