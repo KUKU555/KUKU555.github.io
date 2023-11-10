@@ -329,16 +329,16 @@ select{
 		height:100%;
 		margin-bottom: 25px;
 		margin-right: 25px;
-		margin-left: 25px;
+		margin-left: 20px;
 		margin-top: 15px;
 	}
 	.left{
 		float: center;
-		margin-left: 5px;
+		margin-left: 10px;
 	}
 	.right{
 		float: left;
-		margin-left: -4px;
+		margin-left: 5px;
 	}
 	#image {
 		width: 365px;
